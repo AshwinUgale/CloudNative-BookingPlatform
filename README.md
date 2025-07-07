@@ -1,4 +1,5 @@
 # 🎟️ Cloud-Native Booking Platform
+Live Here: http://cloudtix.xyz/
 
 A distributed, containerized movie/event booking system designed with a microservices architecture and deployed on Google Kubernetes Engine (GKE). This project demonstrates full-stack development, CI/CD automation, and secure API design using modern cloud-native technologies.
 
